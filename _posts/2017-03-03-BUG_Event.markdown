@@ -1,0 +1,9 @@
+---
+title: "BUG Meeting: Collaboration tools in the sciences"
+text: The Bioinformatics Users Group, hosted by the Center for Genome Research & Biocomputing, is an informal meeting of scientists in the life sciences, computing, math, statistics, and other areas, to discuss topics related to those fields.
+location: Agriculture & Life Science, Room 3006
+link: https://github.com/vantuyls/studyGroup/issues/7
+date: 2017-03-08
+startTime: '12:00'
+endTime: '13:00'
+---
